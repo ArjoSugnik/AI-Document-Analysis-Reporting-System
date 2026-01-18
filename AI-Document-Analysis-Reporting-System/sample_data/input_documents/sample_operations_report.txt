@@ -1,0 +1,10 @@
+Operations Summary – Week 3
+
+System uptime remained stable at 99.2%.
+Two minor incidents were reported and resolved.
+
+Risks:
+- Delayed maintenance window
+- Staff availability issues
+
+Overall sentiment: Neutral.

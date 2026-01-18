@@ -1,0 +1,94 @@
+[
+  {
+    "filename": "sample_sales_data.csv",
+    "summary": "Analyzed sample_sales_data.csv: 5 words processed. Document contains business information requiring review.",
+    "key_points": [
+      "Document length: 5 words",
+      "Automated analysis completed successfully",
+      "Manual review recommended for detailed insights"
+    ],
+    "risks": [],
+    "opportunities": [
+      "Consider detailed manual review"
+    ],
+    "sentiment": "neutral",
+    "confidence": "75%",
+    "total_amount": 5647.83,
+    "risk_level": "low",
+    "action_items": [
+      "Review document manually",
+      "Verify extracted data"
+    ],
+    "category": "operational",
+    "processed_at": "2026-01-18T21:04:28.350310"
+  },
+  {
+    "filename": "sample_operations_report.txt",
+    "summary": "Analyzed sample_operations_report.txt: 30 words processed. Document contains business information requiring review.",
+    "key_points": [
+      "Document length: 30 words",
+      "Automated analysis completed successfully",
+      "Manual review recommended for detailed insights"
+    ],
+    "risks": [],
+    "opportunities": [
+      "Consider detailed manual review"
+    ],
+    "sentiment": "negative",
+    "confidence": "75%",
+    "total_amount": 45844.4,
+    "risk_level": "low",
+    "action_items": [
+      "Review document manually",
+      "Verify extracted data"
+    ],
+    "category": "operational",
+    "processed_at": "2026-01-18T21:04:28.351001"
+  },
+  {
+    "filename": "sample_financial_report.pdf",
+    "summary": "Analyzed sample_financial_report.pdf: 26 words processed. Document contains business information requiring review.",
+    "key_points": [
+      "Document length: 26 words",
+      "Automated analysis completed successfully",
+      "Manual review recommended for detailed insights"
+    ],
+    "risks": [],
+    "opportunities": [
+      "Consider detailed manual review"
+    ],
+    "sentiment": "positive",
+    "confidence": "75%",
+    "total_amount": 250000.0,
+    "risk_level": "low",
+    "action_items": [
+      "Review document manually",
+      "Verify extracted data"
+    ],
+    "category": "operational",
+    "processed_at": "2026-01-18T21:04:28.359841"
+  },
+  {
+    "filename": "sample_compliance_notes.xlsx",
+    "summary": "Analyzed sample_compliance_notes.xlsx: 23 words processed. Document contains business information requiring review.",
+    "key_points": [
+      "Document length: 23 words",
+      "Automated analysis completed successfully",
+      "Manual review recommended for detailed insights"
+    ],
+    "risks": [],
+    "opportunities": [
+      "Consider detailed manual review"
+    ],
+    "sentiment": "negative",
+    "confidence": "75%",
+    "total_amount": 31327.72,
+    "risk_level": "low",
+    "action_items": [
+      "Review document manually",
+      "Verify extracted data"
+    ],
+    "category": "operational",
+    "processed_at": "2026-01-18T21:04:28.367891"
+  }
+]
