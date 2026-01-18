@@ -1,4 +1,5 @@
 AI-Based Document Analysis & Reporting System
+
 📌 Overview
 
 This project is an independently executed IT Project Execution Case Study demonstrating end-to-end project management, planning, execution, and delivery of an AI-enabled internal business intelligence system. The system analyzes business documents using AI, identifies key insights and risks, and generates daily and weekly executive-ready reports to support decision-making.
